@@ -171,6 +171,7 @@ cython_debug/
 *.parquet
 *.pickle
 *.pkl
+**/*.pkl
 *.csv
 *.npz
 
