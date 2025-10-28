@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-final/mlruns/0/4b29159e53a64cb6bbd6b923bb9a3759/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b29159e53a64cb6bbd6b923bb9a3759
+run_name: funny-mouse-605
+run_uuid: 4b29159e53a64cb6bbd6b923bb9a3759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761635100371
+status: 1
+tags: []
+user_id: mle-user
