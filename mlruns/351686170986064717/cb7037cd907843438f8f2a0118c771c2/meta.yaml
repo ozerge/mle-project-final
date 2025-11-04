@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-project-final/mlruns/351686170986064717/cb7037cd907843438f8f2a0118c771c2/artifacts
+end_time: 1762226328278
+entry_point_name: ''
+experiment_id: '351686170986064717'
+lifecycle_stage: active
+run_id: cb7037cd907843438f8f2a0118c771c2
+run_name: data_preparation_eda
+run_uuid: cb7037cd907843438f8f2a0118c771c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762226328173
+status: 3
+tags: []
+user_id: mle-user
